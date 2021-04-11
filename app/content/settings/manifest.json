@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Built Cloud Native Blog",
+  "shortName": "Built Cloud Native Blog",
+  "description": "Built Cloud Native Blog",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
