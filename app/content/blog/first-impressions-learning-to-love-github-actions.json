@@ -1,0 +1,5 @@
+{
+  "publishedAt": "18th Apr 2021",
+  "title": "First Impressions: Learning to Love Github Actions",
+  "content": "tldr; **Github Actions is Everything I Like About Cloud Build, but Better**\n\nOne of my low-key favorite ways of building a CI/CD pipeline is using Google Cloud Build. You only pay for build minutes, excellent for weekend projects that you'd like to have CI/CD on but don't want to pay money for. It also just running a series of docker containers, and through that constraint, you end up with a really flexible workflow that you can easily adapt to other projects. The weak part of Cloud Build is that no one else uses it, so you end up having to build all the components you need.\n\nEnter **Github Actions**\n\nGithub Actions is essentially the same thing, except they have a \"Marketplace\" which provides a collection of prebuilt steps that you can integrate."
+}
